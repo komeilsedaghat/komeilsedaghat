@@ -1,16 +1,14 @@
 ### Hi there 👋
+# I'm Komeil Sedaghat,Back-end Delevoper I like to learn more
 
-<!--
-**komeilsedaghat/komeilsedaghat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills
+> Python,Django,Django Rest Framework,Docker,Postgresql,Css-Html-JavaScript,BootStrap5
 
-Here are some ideas to get you started:
+  <img src="https://github-readme-stats.vercel.app/api?username=komeilsedaghat&theme=jolly"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Networks
+
+[![twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/komeil_03)
+[![Telegram Id](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/komeil_03) 
+[![Gmail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logoColor=yellow&logo=gmail)](https://komeil4784@gmail.com/) 
+
